@@ -104,5 +104,5 @@ ELASTICITY_PRESETS = {
 
 ## Auteur
 
-**Mouden Hamza** — Étudiant M2 Ingénierie d'affaires, Brest Business School  
+**Mouden Hamza** — Étudiant M2 Finance, Brest Business School  
 Projet réalisé dans le cadre d'une candidature alternance Business Analyst Pricing.
