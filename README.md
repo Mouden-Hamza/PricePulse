@@ -49,7 +49,7 @@ Les équipes pricing passent un temps significatif à détecter manuellement les
 ## Installation & usage
 
 ```bash
-git clone https://github.com/ton-username/pricepulse
+git clone https://github.com/Mouden-Hamza/pricepulse
 cd pricepulse
 pip install -r requirements.txt
 python main.py
